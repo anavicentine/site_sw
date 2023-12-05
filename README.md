@@ -1,3 +1,3 @@
 # site_sw
 
-https://anavicentine.github.io./site_sw/index.html
+https://anavicentine.github.io./localhost/site_sw
